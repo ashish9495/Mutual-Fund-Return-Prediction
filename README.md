@@ -36,4 +36,4 @@ This project focuses on predicting 3-year returns of mutual funds based on vario
 This model provides a data-driven recommendation for which asset factors (such as type, risk level, or market cap) are more likely to contribute to higher mutual fund performance.
 
 ## ✍️ Author
-Created by [Your Name] as part of a data science internship assignment.
+Created by Kothmeerkar Ashish as part of a data science internship assignment.
